@@ -1,8 +1,8 @@
 ﻿
-CREATE DATABASE [KUAS]
+CREATE DATABASE [Midterm]
 GO
 
-USE [KUAS]
+USE [Midterm]
 GO
 
 CREATE TABLE [dbo].[Course](
